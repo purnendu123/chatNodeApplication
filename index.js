@@ -20,7 +20,7 @@ dotenv.config()
 // app.use('/api', testRouter) 
 
 // app.use('/login', loginRouter.loginRouter) ;
-app.get('/getJson/:id', (req,res)=>res.send(data[id]))
+app.get('/getJson/:id', (req,res)=>res.send(data[req.params.id]))
 
 const PORT = process.env.PORT || 3000 ;
 
