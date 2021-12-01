@@ -10,16 +10,16 @@ const connectDB = require('./dbConnection.js/mongo');
 app.use(express.json());
 let data = require('./data.json')
 dotenv.config()
-connectDB()
+// connectDB()
 
-app.get('/', (req,res)=> {
-    res.send('hello ')
-}) ;
+// app.get('/', (req,res)=> {
+//     res.send('hello ')
+// }) ;
 
 
-app.use('/api', testRouter) 
+// app.use('/api', testRouter) 
 
-app.use('/login', loginRouter.loginRouter) ;
+// app.use('/login', loginRouter.loginRouter) ;
 app.get('/getJson', (req,res)=>res.send(data))
 
 const PORT = process.env.PORT || 3000 ;
