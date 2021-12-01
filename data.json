@@ -1,0 +1,270 @@
+{
+    "apps" : [
+      {
+				"AppID": 1,
+				"AppName": "PringleApps1",
+				"ShortDescription": "Track your Bots",
+				"FullDescription": "Health of your Bots",
+				"AppCategory": "Health",
+				"AppSubCategory": "Hospitals",
+				"AppIcon": "../../../assets/haseeb-jamil-J9lD6FS6_cs-unsplash.jpg",
+				"AppScreenshots": "",
+				"AppRating": 4,
+				"AppCurrentVersion": "",
+				"AppUpdatedInfo": "",
+				"AppPublishingAccToken": "D2916913-0855-4702-BF57-2793A87E12AD",
+				"CountryCode": "US,IN",
+				"DateCreated": "2021-11-21T19:36:00",
+				"DateModified": "2021-11-21T19:54:00",
+				"CreatedBy": 1,
+				"UpdatedBy": 1
+			},
+      {
+				"AppID": 2,
+				"AppName": "PringleApps1",
+				"ShortDescription": "Track your Bots",
+				"FullDescription": "Health of your Bots",
+				"AppCategory": "Health",
+				"AppSubCategory": "Hospitals",
+				"AppIcon": "https://localhost:44300/AppAssets/D2916913-0855-4702-BF57-2793A87E12AD/5/icon/343.jpg",
+				"AppScreenshots": "",
+				"AppRating": 4,
+				"AppCurrentVersion": "",
+				"AppUpdatedInfo": "",
+				"AppPublishingAccToken": "D2916913-0855-4702-BF57-2793A87E12AD",
+				"CountryCode": "US,IN",
+				"DateCreated": "2021-11-21T19:36:00",
+				"DateModified": "2021-11-21T19:54:00",
+				"CreatedBy": 1,
+				"UpdatedBy": 1
+			},
+      {
+				"AppID": 3,
+				"AppName": "PringleApps1",
+				"ShortDescription": "Track your Bots",
+				"FullDescription": "Health of your Bots",
+				"AppCategory": "Health",
+				"AppSubCategory": "Hospitals",
+				"AppIcon": "",
+				"AppScreenshots": "",
+				"AppRating": 4,
+				"AppCurrentVersion": "",
+				"AppUpdatedInfo": "",
+				"AppPublishingAccToken": "D2916913-0855-4702-BF57-2793A87E12AD",
+				"CountryCode": "US,IN",
+				"DateCreated": "2021-11-21T19:36:00",
+				"DateModified": "2021-11-21T19:54:00",
+				"CreatedBy": 1,
+				"UpdatedBy": 1
+			},
+      {
+				"AppID": 4,
+				"AppName": "PringleApps1",
+				"ShortDescription": "Track your Bots",
+				"FullDescription": "Health of your Bots",
+				"AppCategory": "Health",
+				"AppSubCategory": "Hospitals",
+				"AppIcon": "https://localhost:44300/AppAssets/D2916913-0855-4702-BF57-2793A87E12AD/5/icon/343.jpg",
+				"AppScreenshots": "",
+				"AppRating": 4,
+				"AppCurrentVersion": "",
+				"AppUpdatedInfo": "",
+				"AppPublishingAccToken": "D2916913-0855-4702-BF57-2793A87E12AD",
+				"CountryCode": "US,IN",
+				"DateCreated": "2021-11-21T19:36:00",
+				"DateModified": "2021-11-21T19:54:00",
+				"CreatedBy": 1,
+				"UpdatedBy": 1
+			},
+        
+      {
+				"AppID": 5,
+				"AppName": "PringleApps1",
+				"ShortDescription": "Track your Bots",
+				"FullDescription": "Health of your Bots",
+				"AppCategory": "Health",
+				"AppSubCategory": "Hospitals",
+				"AppIcon": "https://localhost:44300/AppAssets/D2916913-0855-4702-BF57-2793A87E12AD/5/icon/343.jpg",
+				"AppScreenshots": "",
+				"AppRating": 4,
+				"AppCurrentVersion": "",
+				"AppUpdatedInfo": "",
+				"AppPublishingAccToken": "D2916913-0855-4702-BF57-2793A87E12AD",
+				"CountryCode": "US,IN",
+				"DateCreated": "2021-11-21T19:36:00",
+				"DateModified": "2021-11-21T19:54:00",
+				"CreatedBy": 1,
+				"UpdatedBy": 1
+			},
+			{
+				"AppID": 6,
+				"AppName": "PringleApps2",
+				"ShortDescription": "Best Beverages",
+				"FullDescription": "Best Beverages...",
+				"AppCategory": "Food",
+				"AppSubCategory": "Beverages",
+				"AppIcon": "",
+				"AppScreenshots": "",
+				"AppRating": 0,
+				"AppCurrentVersion": "",
+				"AppUpdatedInfo": "",
+				"AppPublishingAccToken": "D2916913-0855-4702-BF57-2793A87E12AD",
+				"CountryCode": "US,IN",
+				"DateCreated": "2021-11-21T20:04:00",
+				"DateModified": "0001-01-01T00:00:00",
+				"CreatedBy": 1,
+				"UpdatedBy": -1
+			}
+    
+    
+  ],
+  "appDetails" : {
+    "AppID": 6,
+    "AppName": "PringleApps2",
+    "ShortDescription": "Best Beverages",
+    "FullDescription": "Best Beverages...",
+    "AppCategory": "Food",
+    "AppSubCategory": "Beverages",
+    "AppIcon": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=480&q=80",
+    "AppScreenshots": "",
+    "AppRating": 4,
+    "AppCurrentVersion": "",
+    "AppUpdatedInfo": "",
+    "AppPublishingAccToken": "D2916913-0855-4702-BF57-2793A87E12AD",
+    "CountryCode": "US,IN",
+    "DateCreated": "2021-11-21T20:04:00",
+    "DateModified": "0001-01-01T00:00:00",
+    "CreatedBy": 1,
+    "UpdatedBy": -1,
+    "icon": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=480&q=80",
+      "screenshots" : ["https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=480&q=80",
+        "https://images.unsplash.com/photo-1482049016688-2d3e1b311543?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=410&q=80",
+        "https://images.unsplash.com/photo-1484723091739-30a097e8f929?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=449&q=80",
+        "https://images.unsplash.com/photo-1511690656952-34342bb7c2f2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=464&q=80"
+    ],
+      "additionalInfo" : {
+          "Updated" : "September 20,2010",
+          "Size" : "30 MB",
+          "Installed" : "6000",
+          "CurrentVersion": "5.1.1",
+          "Offered by" : "Pringle soft"
+      }
+  },
+
+
+  "reviews" : {
+    "appId": 5,
+			"token": "d2916913-0855-4702-bf57-2793a87e12ad",
+			"appRating": 3.5,
+			"reviews": [
+				{
+					"appReviewId": 6,
+					"userName": "sajjas",
+					"content": "",
+					"rating": 4
+				},
+				{
+					"appReviewId": 7,
+					"userName": "sajjas",
+					"content": "vcbzvzvcv",
+					"rating": 3
+				}
+			]
+  },
+
+  "myApps" : [
+    {
+      "AppID": 5,
+      "AppName": "PringleApps",
+      "ShortDescription": "Track your Bots",
+      "FullDescription": "Health of your Bots",
+      "AppCategory": "Health",
+      "AppSubCategory": "Hospitals",
+      "AppIcon": "https://localhost:44300/AppAssets/D2916913-0855-4702-BF57-2793A87E12AD/5/icon/343.jpg",
+      "AppScreenshots": "",
+      "AppRating": 0,
+      "AppCurrentVersion": "",
+      "AppUpdatedInfo": "",
+      "AppPublishingAccToken": "D2916913-0855-4702-BF57-2793A87E12AD",
+      "CountryCode": "US,IN",
+      "DateCreated": "2021-11-21T19:36:00",
+      "DateModified": "2021-11-21T19:54:00",
+      "CreatedBy": 1,
+      "UpdatedBy": 1
+    },
+    {
+      "AppID": 6,
+      "AppName": "PringleApps2",
+      "ShortDescription": "Best Beverages",
+      "FullDescription": "Best Beverages...",
+      "AppCategory": "Food",
+      "AppSubCategory": "Beverages",
+      "AppIcon": "",
+      "AppScreenshots": "",
+      "AppRating": 0,
+      "AppCurrentVersion": "",
+      "AppUpdatedInfo": "",
+      "AppPublishingAccToken": "D2916913-0855-4702-BF57-2793A87E12AD",
+      "CountryCode": "US,IN",
+      "DateCreated": "2021-11-21T20:04:00",
+      "DateModified": "0001-01-01T00:00:00",
+      "CreatedBy": 1,
+      "UpdatedBy": -1
+    }
+    
+  ],
+
+  "appVersions" : {
+    "appId" : "1234",
+    "userId" : "1234",
+    "versions" : [
+      {
+        "AppVersionID": 1,
+        "versionName" : "5.0",
+        "code" : "1234",
+        "releaseDate" : "september 22 2021",
+        "status" : "Rejected",
+        "icon" : ""
+      },
+      {
+        "AppVersionID": 2,
+        "versionName" : "5.0",
+        "code" : "1234",
+        "releaseDate" : "september 22 2021",
+        "status" : "Rejected",
+        "icon" : ""
+      },
+      {
+        "AppVersionID": 3,
+        "versionName" : "5.0",
+        "code" : "1234",
+        "releaseDate" : "september 22 2021",
+        "status" : "Rejected",
+        "icon" : ""
+      }
+    ]
+  },
+  "specificVersion": 
+    {
+      "AppVersionID": 3,
+      "AppID": 5,
+      "AppVersionName": "V1.0",
+      "AppSize": "5571 KB",
+      "AppCode": "https://localhost:44300/AppAssets/d2916913-0855-4702-bf57-2793a87e12ad/5/code/V1.0/app-debug.apk",
+      "AppVersionNotes": "",
+      "AppStatus": "Awaiting Review",
+      "AppVersionScheduledDate": "2021-11-22T00:00:00",
+      "ModeratedBy": "",
+      "DateCreated": "2021-11-21T22:21:00",
+      "DateModified": "2021-11-22T00:06:00",
+      "CreatedBy": 1,
+      "UpdatedBy": 1
+  },
+  "create" : {
+      "token": "D2916913-0855-4702-BF57-2793A87E12AD",
+							"appId": "5",
+							"success": true
+  }
+  
+  
+}
